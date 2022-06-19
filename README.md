@@ -1,8 +1,9 @@
-# Getting Started with Create React App
+# What The project is About ?
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## What The project is About ?
 
 # What is this about?
 
